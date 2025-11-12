@@ -31,7 +31,7 @@ workflow_path: "method-greenfield.yaml"
 workflow_status:
   # Phase 0: Discovery (Optional)
   brainstorm-project: optional  # agent: analyst
-  research: optional  # agent: analyst
+  research: docs/bmm-research-technical-2025-11-12.md  # agent: analyst
   product-brief: optional  # agent: analyst
 
   # Phase 1: Planning
